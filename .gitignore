@@ -1,0 +1,8 @@
+# List of ignored files
+
+bin/
+obj
+packages/
+.vs/
+
+*.suo
